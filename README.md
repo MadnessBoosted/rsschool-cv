@@ -1,1 +1,1 @@
-# rsschool-cv
+https://madnessboosted.github.io/rsschool-cv/cv
