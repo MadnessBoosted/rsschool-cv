@@ -1,9 +1,9 @@
 My name is Nikita Buzitskiy
 My contacts:
     buzya2384@gmail.com (email)
-    nikita0vertyxa (telegram)
-    madnessboosted (discord)
-I have been working at the plant for 5 years. I decided to start programming.
+    [nikita0vertyxa](https://t.me/nikita0vertyxa) (telegram)
+    [madnessboosted](https://discordapp.com/users/704003235236675636/) (discord)
+I have been working at the factory for 5 years. I decided to learn programming because I have always been attracted to this field.
 Skills:
     JavaScript
     Python
